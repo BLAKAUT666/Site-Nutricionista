@@ -1,0 +1,55 @@
+ody{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+.conteiner-topo{
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    height: 70px;
+    width: 100%;
+}
+.conteiner-topo-list{
+    display: flex;
+    margin: 20px;
+}
+.conteiner-icones{
+    padding-inline: 10px;
+    margin-right: 20px;
+}
+.conteiner-icones img{
+    height: 30px;
+    width: 30px;
+}
+.conteiner-left{
+    display: flex;
+}
+#title{
+    color: indigo;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 590px 0 50px;
+}
+#title:hover{
+    border-bottom: 2px solid red;
+    border-top: 2px solid blue;
+}
+.title-topo{
+    color: firebrick;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.conteiner-left{
+    margin-top: -15px;
+}
+.conteiner-left p{
+    color: #000;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
