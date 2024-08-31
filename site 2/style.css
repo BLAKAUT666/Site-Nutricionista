@@ -3,11 +3,11 @@ body{
     padding: 0;
     background-color: aliceblue;
 }
-* {
+*{
+    margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-
-
 .conteiner-topo{
     background-color: #fff;
     position: relative;
